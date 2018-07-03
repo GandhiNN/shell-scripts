@@ -1,4 +1,4 @@
-# shell-scripts
+# Shell Scripts
 
 Collection of shell scripts developed to improve daily operational activities.
 
