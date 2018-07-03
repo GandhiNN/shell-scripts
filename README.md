@@ -1,6 +1,6 @@
 # shell-scripts
 
-Collection of shell scripts written to improve daily operational activities.
+Collection of shell scripts developed to improve daily operational activities.
 
 ## License
 
